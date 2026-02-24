@@ -30,3 +30,4 @@ The system includes authentication, dashboard analytics, and full CRUD functiona
 ---
 
 ## 📂 Project Structure
+django-project/ │ ├── account/ ├── db/ ├── templates/ ├── static/ ├── manage.py ├── requirements.txt └── README.md
