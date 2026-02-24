@@ -1,0 +1,30 @@
+    body{
+    background-color: rgb(30, 41, 59);
+    }
+    #logo{
+
+
+    }
+
+    #total-orders {
+    background-color: rgb(72, 187, 120);
+    }
+    #total-orders:hover {
+        transform: translate(-5px);
+        box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+        cursor:pointer;
+    }
+
+    #orders-delivered{
+        background-color: rgb(56, 189, 248);
+    }
+
+    #orders-pending{
+        background-color: rgb(105, 139, 139);
+    }
+
+    #out_for_delivery{
+        background-color: rgb(182, 112, 194);
+    }
+    
+

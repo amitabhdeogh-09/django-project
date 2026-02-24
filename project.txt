@@ -1,0 +1,27 @@
+system_design
+Customer operations
+1. Add Customer..yes
+2. view all Customer...yes
+3. View customer details...yes
+4. view customer orders..yes
+5. update customer..yes
+6. delete customer..yes
+7. place order include inlineformset...yes
+
+Product operations
+1. Add Product..yes
+2. view Product List...yes
+3. view Product details..yes
+4. update Product..yes
+5. delete Product..yes
+6. Filter by category/Tags
+
+Order operations
+1. Create order..yes
+2. view all order..yes
+3. update order status..yes
+4. delete order..yes
+
+Tags operations
+1. Add Tags...yes
+2. Assign tag to Product..yes
